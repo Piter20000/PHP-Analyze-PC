@@ -1,2 +1,2 @@
 # PHP-Analyze-PC
-Method generate informations about user PC
+Class generate informations about user PC
